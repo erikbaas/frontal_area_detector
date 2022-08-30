@@ -16,7 +16,7 @@ You should create the folder yourself if it's not there yet (or change the paths
 
 The photos you take require the following:
 
-- Place a football or other spherical object directly next to the drone. Calculate the frontal area of the football and 
+- Place a football or other spherical object directly next to the drone. Calculate the theoretical frontal area of the spherical object (pi * r^2) and 
 assign its value to A_ref in the code.
 - Make photos at a sufficient distance to mimick the "free flow" frontal area and avoid fish eye effects
 - Take a series of photos at slight variations of yaw angle, such that you can take the average later.
