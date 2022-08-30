@@ -21,6 +21,10 @@ assign its value to A_ref in the code.
 - Make photos at a sufficient distance to mimick the "free flow" frontal area and avoid fish eye effects
 - Take a series of photos at slight variations of yaw angle, such that you can take the average later.
 
+![metsis_area_example](https://user-images.githubusercontent.com/47579794/187547062-54f0378d-ba6f-40ec-a9c7-40d9a1b6831a.jpg)
+
+An example photo is shown above, for 0 degrees yaw and 15 degrees pitch
+
 ### 1. Download Packages 
 
 It is advised to set up a seperate Anaconda virtual environment. The following imports are used and are thus required.
