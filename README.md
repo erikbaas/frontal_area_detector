@@ -4,15 +4,15 @@ This code is meant as support tool for the Aerospace Engineering MSc thesis.
 
 ## Installation & Getting Started
 
-### 0. Directory Management
+### Directory Management
 
 It is very important that you keep the same hierarchy of folders as suggested in this project! That means **for the algorithm to work, you must**:
 
-- Put the real images inside data/photos folder
+- Put the images inside data/photos folder
 
 You should create the folder yourself if it's not there yet (or change the paths accordingly). 
 
-### How to make the pictures
+### 0. How to make the pictures
 
 The photos you take require the following:
 
